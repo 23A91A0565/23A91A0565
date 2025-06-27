@@ -2,7 +2,7 @@
 
 <!-- ✅ CUSTOMIZED TOP BANNER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" style="height:450px;" alt="coding banner gif" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" style="height:400px;" alt="coding banner gif" />
 </p>
 
 <h3 align="center">Java Developer | Backend Learner | DSA Explorer</h3>
