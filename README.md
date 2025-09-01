@@ -94,8 +94,9 @@
 
 ---
 
-## 🧠 Coding Profiles Stats
+
 <!--
+## 🧠 Coding Profiles Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/V_Durga_Phani_Kumar?ext=heatmap" alt="LeetCode Stats" width="80%"  style="height:450px;"/>
 </p>
