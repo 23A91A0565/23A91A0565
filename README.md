@@ -78,9 +78,9 @@
 <p align="center">
   <a href="mailto:vankalarambabu5@gmail.com"><img src="https://img.shields.io/badge/Email-DarkRed?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/23A91A0565"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/V_Durga_Phani_Kumar/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   <a href="https://codeforces.com/profile/vankalarambabu5"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-  <a href="https://www.geeksforgeeks.org/user/vankalaraf25/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 </p>
 
 ---
@@ -95,7 +95,7 @@
 ---
 
 ## 🧠 Coding Profiles Stats
-
+<!--
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/V_Durga_Phani_Kumar?ext=heatmap" alt="LeetCode Stats" width="80%"  style="height:450px;"/>
 </p>
@@ -107,7 +107,7 @@
     width="80%" style="height:450px;"
   />
 </p>
-
+-->
 ---
 
 ## 🔥 GitHub Streak
