@@ -16,9 +16,9 @@
 
 ## 🙋‍♂ About Me
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="200" alt="About me image" />
-</p>
+</p> -->
 
 🎓 I'm *Vankala Durga Phani Kumar, a B.Tech Computer Science student at **Aditya Engineering College* with a strong interest in *Java development, **problem-solving, and **backend technologies*.
 
